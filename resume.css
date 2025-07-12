@@ -1,0 +1,18 @@
+.resume-container{
+  background-color: rgb(182, 148, 145);
+  padding: 30px 30px;
+  border: 1px solid rgb(167, 148, 120);
+}
+
+.resume{
+  font-size: 38px;
+  color:   rgb(249,245,239);
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.resume-container p{
+  color: rgb(249,245,239);
+  font-size: 20px;
+  display: inline-block;
+}

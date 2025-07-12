@@ -1,0 +1,53 @@
+.skills-container{
+  background-color: rgb(249,245,239);
+  padding: 30px 30px;
+}
+
+.my-skills{
+  font-size: 38px;
+  color:rgb(145, 108, 105);
+  font-weight: bold;
+}
+
+.skill{
+  margin-bottom: 15px;
+}
+
+.skills-container dt, .skills-container dd, .skill p{
+  font-size: 20px;
+  color: rgb(182, 148, 145);
+}
+
+.skills-container dt, .skills-container dd{
+  margin-bottom: 9px;
+}
+
+.skills-container dd{
+  display: inline-block;
+}
+
+.bar{
+  border: 1px solid rgb(145, 108, 105);
+  height: 20px;
+  overflow: hidden;
+  width: 200px;
+}
+
+.progress{
+  height: 100%;
+  background-color:  rgb(145, 108, 105) ;
+  
+}
+
+.progress.e{
+  width: 90%;
+
+}
+
+.progress.h{
+  width: 50%;
+}
+
+.progress.m{
+ width: 100%; 
+}

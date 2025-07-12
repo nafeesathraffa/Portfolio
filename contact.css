@@ -1,0 +1,15 @@
+.contact-container{
+  background-color: rgb(249,245,239);
+  padding: 30px 30px;
+}
+
+.contact{
+  font-size: 38px;
+  color:rgb(145, 108, 105);
+  font-weight: bold;
+}
+
+.contact-container p{
+  color: rgb(182, 148, 145);
+  font-size: 20px;
+}

@@ -1,0 +1,21 @@
+.projects{
+  background-color: rgb(182, 148, 145);
+  padding: 30px 30px;
+  border: 1px solid rgb(167, 148, 120);
+}
+
+.my-projects{
+  font-size: 34px;
+  color:  rgb(249,245,239);
+  font-weight: bold;
+}
+
+.points{
+  color: rgb(249,245,239);
+  font-size: 30px;
+}
+
+.about-project{
+  color: rgb(249,245,239);
+  font-size: 20px;
+}
